@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsdom": "^17.0.0",
+    "needle": "^3.0.0"
+  }
+}
